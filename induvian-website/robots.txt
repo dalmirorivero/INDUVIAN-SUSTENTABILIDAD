@@ -1,0 +1,4 @@
+User-Agent: * 
+Disallow: /old-site
+Allow: *
+Sitemap: http://www.induvian.com/sitemap/sitemap.xml
